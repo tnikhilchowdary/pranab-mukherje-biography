@@ -1,8 +1,8 @@
-# 🇮🇳 Pranab Mukherjee Biography App
+# Pranab Mukherjee Biography Website
 
 A tribute React app honoring the life and achievements of **Dr. Pranab Mukherjee**, former President of India.
 
-## 📸 Screenshot
+## Screenshot
 
 ![App Screenshot](./src/assets/screenshots.png)
 
@@ -10,7 +10,7 @@ A tribute React app honoring the life and achievements of **Dr. Pranab Mukherjee
 
 ---
 
-## 🚀 Features
+## Features
 
 - 📘 Biography Section
 - 🧠 Leadership Highlights
@@ -21,7 +21,7 @@ A tribute React app honoring the life and achievements of **Dr. Pranab Mukherjee
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - React JS (Functional Components)
 - React Router DOM
