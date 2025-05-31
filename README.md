@@ -30,5 +30,4 @@ A tribute React app honoring the life and achievements of **Dr. Pranab Mukherjee
 
 ---
 
-## 📁 Project Structure
 
