@@ -1,0 +1,46 @@
+.home-container {
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6));
+  background-color: #000;
+  height: 100vh;
+  padding: 2rem;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.overlay {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-card {
+  max-width: 900px;
+  display: flex;
+  background-color: rgba(255, 255, 255, 0.05);
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(8px);
+}
+
+.home-image {
+  width: 300px;
+  height: auto;
+  object-fit: cover;
+}
+
+.home-details {
+  padding: 2rem;
+}
+
+.home-details h1 {
+  margin-bottom: 1rem;
+  color: #ffd700;
+  font-size: 2rem;
+}
+
+.home-details p {
+  line-height: 1.6;
+  font-size: 1rem;
+}

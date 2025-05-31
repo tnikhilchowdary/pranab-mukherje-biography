@@ -1,0 +1,50 @@
+/* General styling for all components */
+.page-container {
+  max-width: 800px;
+  margin: 50px auto; /* Center the content */
+  padding: 30px;
+  background-color: #ffffff;
+  border: 2px solid #ddd;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Header styling */
+.page-container h1,
+.page-container h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Paragraph styling */
+.page-container p {
+  color: #555;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* Image styling if any */
+.page-container img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+/* Optional: Button styling if needed */
+.page-container button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.page-container button:hover {
+  background-color: #0056b3;
+}
